@@ -20,3 +20,6 @@ The project consists of the following components:
 - `networkx`: For graph creation and manipulation.
 - `matplotlib`: For visualizing the graph and traversal process.
 - `queue`: For implementing the BFS queue.
+
+## Outcome
+The project successfully demonstrates the differences between BFS and DFS in terms of node exploration. BFS explores nodes level by level, while DFS explores nodes as deeply as possible before backtracking. The visualizations provide a clear understanding of how these algorithms work in practice.
